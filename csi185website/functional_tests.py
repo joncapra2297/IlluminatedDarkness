@@ -38,7 +38,7 @@ class NewVisitorTest(unittest.TestCase):
         # there is a page title defined by <title></title> on the home page
         # check it
 
-        self.assertIn('The Title of my Web Site',self.browser.title)
+        self.assertIn('Illuminated Darkness',self.browser.title)
 
         # You will have an image for your home page I am assuming.
         # Put the name of your image here in place of homebrew.png
@@ -52,7 +52,7 @@ class NewVisitorTest(unittest.TestCase):
         # put your title in place of "The Title of My Home Page"
 
         h=self.browser.find_element_by_css_selector('h1')
-        self.assertIn("The Title of My Home Page",h.text)
+        self.assertIn("Illuminated Darkness",h.text)
 
         # There is an area specified around the computer keyboard.
         # the 'id' of this area is 'keyboard'
