@@ -29,7 +29,13 @@ class NewVisitorTest(unittest.TestCase):
     def test_home_page(self):
         """
 
-        Put your description of the purpose of your web site here.
+ To maintain the concept of an unverifiable afterlife, the church’s
+ policing mechanisms lay out a system of supernatural monitoring and
+ punishment. Using a system of beliefs and values, the Catholic Church
+ prescribes certain moral norms and their transgressions. Sustaining
+ the rationality of an uncertain system that lacks scientific credibility,
+ the functionaries of the church become a “watching eye,” an arbiter of
+ pro-social behavior in modern-day American society.
 
         """
 
